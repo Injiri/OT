@@ -5,9 +5,9 @@
 	<parent>
 		<groupId>org.openmrs.module</groupId>
 		<artifactId>OT</artifactId>
-		<version>0.0.2</version>
+		<version>0.0.3-SNAPSHOT</version>
 	</parent>
-    <groupId>org.openmrs.module</groupId>
+
 	<artifactId>OT-api</artifactId>
 	<packaging>jar</packaging>
 	<name>Operation Theatre Module API</name>
